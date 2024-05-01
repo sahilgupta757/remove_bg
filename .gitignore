@@ -1,0 +1,6 @@
+u2net.onnx
+node_modules
+dist
+
+# vscode files
+/.vscode
